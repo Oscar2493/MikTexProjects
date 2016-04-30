@@ -1,0 +1,5 @@
+\contentsline {section}{\numberline {1}Introduction}{1}{section.1}
+\contentsline {section}{\numberline {2}Agile Manifesto}{1}{section.2}
+\contentsline {section}{\numberline {3}Pete Started as a Platformer}{2}{section.3}
+\contentsline {section}{\numberline {4}3D Pete}{2}{section.4}
+\contentsline {section}{\numberline {5}Where do We go From Here}{3}{section.5}
